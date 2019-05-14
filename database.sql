@@ -1,6 +1,6 @@
-create database  bookstore 
+create database  store 
 go
-USE bookstore  
+USE store  
 GO
 create table  category(
 	id int not NULL IDENTITY(1,1) primary key ,
